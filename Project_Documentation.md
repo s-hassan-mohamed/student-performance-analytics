@@ -41,5 +41,17 @@ This project helped me practise CSV file handling, Python functions, conditional
 ## 8. Final Outcome
 The system successfully processes the sample student dataset and generates a student performance report with grades, results, and performance statistics.
 
-## 9. GitHub Repository
-Add the URL of your GitHub repository here.
+## 9. Challenges & Learning
+
+### Challenges Faced
+While developing the Student Performance Analytics System, organizing student data and calculating total marks, averages, grades, and pass/fail results were important tasks. Ensuring that the output was displayed clearly and correctly also required testing and corrections.
+
+### How the Challenges Were Addressed
+The project was tested using the student dataset, and the calculations and output were checked to identify errors. The code and data files were organized to make the project easier to run and understand.
+
+### Key Learnings
+Through this project, I improved my understanding of Python programming, CSV data handling, conditional statements, loops, calculations, and data analysis. I also learned how to upload project files to GitHub and maintain project documentation.
+
+## 10. GitHub Repository
+https://github.com/s-hassan-mohamed/student-performance-analytics
+
